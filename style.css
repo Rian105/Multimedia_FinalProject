@@ -1,0 +1,209 @@
+body,
+html {
+  margin: 0px;
+  scroll-behavior: smooth;
+  background-image: url("./Picture/tamako-market-minimalism-artwork-simple-background-wallpaper.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  background-attachment: fixed;
+}
+
+/*Navigation Bar*/
+
+.Navigation {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background-color: transparent;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.Left-title {
+  font-size: 30px;
+  padding: 30px;
+  text-align: left;
+}
+
+.middle-nav {
+  margin-left: -200px;
+  font-size: 25px;
+  padding: 35px;
+  width: 100%;
+  text-align: center;
+}
+
+.About {
+  margin-left: 40px;
+}
+
+/*main body */
+
+.Big-Title {
+  width: 100%;
+  height: 650px;
+}
+
+.Big-Title-Word {
+  padding-top: 250px;
+  text-align: center;
+  font-size: 70px;
+}
+
+.Mini-Title-Word {
+  text-align: center;
+  font-size: 50px;
+}
+
+/*Trailer*/
+
+.Trailer {
+  padding: 30px;
+  height: 550px;
+  background-color: transparent;
+}
+
+.Trailer-Title {
+  font-size: 48px;
+  margin-left: 100px;
+}
+
+.Trailer-Box {
+  margin-top: 45px;
+  margin-left: 180px;
+  height: 400px;
+  width: 1080px;
+  background-color: transparent;
+}
+
+.Trailer-Text {
+  text-align: center;
+  padding: 175px;
+  font-size: 35px;
+}
+
+.Mini-Line4 {
+  padding-top: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 20px;
+  background-color: transparent;
+}
+
+/*Cast*/
+
+.Cast {
+  padding: 30px;
+  height: 385px;
+  background-color: transparent;
+}
+
+.Cast-Title {
+  font-size: 48px;
+  margin-left: 100px;
+}
+
+.Cast-Whole {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  margin-left: 160px;
+  margin-right: 300px;
+}
+
+.Cast-Player1-2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Cast-Player1 {
+  margin-top: 50px;
+  display: flex;
+}
+
+.Round1 {
+  height: 80px;
+  width: 80px;
+  background-color: #bd8888;
+  border-radius: 50%;
+}
+
+.Cast1Name {
+  margin-top: 15px;
+  margin-left: 25px;
+  font-size: 25px;
+}
+
+.Chara1 {
+  font-size: 15px;
+}
+
+.Cast-Player2 {
+  margin-left: 150px;
+  display: flex;
+  margin-top: 50px;
+}
+
+.Round2 {
+  height: 80px;
+  width: 80px;
+  background-color: #bd8888;
+  border-radius: 50%;
+}
+
+.Cast2Name {
+  margin-top: 15px;
+  margin-left: 25px;
+  font-size: 25px;
+}
+
+.Chara2 {
+  font-size: 15px;
+}
+
+.Mini-Line5 {
+  padding-top: 55px;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 20px;
+  background-color: transparent;
+}
+
+/*Genre-Sinopsis*/
+
+.Genre-Sinopsis {
+  height: 375px;
+  background-color: transparent;
+  padding: 25px;
+}
+
+.Sinopsis {
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.Sinopsis-Title {
+  font-size: 48px;
+}
+
+.Sinopsis-Text {
+  margin-right: 100px;
+  font-size: 28px;
+  text-align: center;
+  font-family: "Imperial Script", cursive;
+}
+
+.Mini-Line3 {
+  padding-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 20px;
+  background-color: transparent;
+}
